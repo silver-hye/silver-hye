@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&customColorList=14&height=600&section=header&text=YOU%20CONTROL%20YOUR%20DESTINY&animation=fadeIn&fontColor=538053&fontSize=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Rough&pause=1000&color=5B7F34&multiline=true&repeat=false&width=680&height=180&lines=One+line+from+Brave%2C;the+first+English+book+I+read+as+a+child%2C;has+stayed+with+me+ever+since+I+first+interpreted+its+meaning.;It+has+quietly+shaped+my+life+in+meaningful+ways.;Hi,+I'm+Choi+Eunhye.;I'm+currently+learning+programming+and+enjoying+the+little+moments+of+growth.)](https://git.io/typing-svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
